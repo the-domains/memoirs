@@ -1,7 +1,7 @@
 name: Memoirs
 favicon: null
-layout_spectrum: 0.5358598427847028
-typography_spectrum: 0.8188660822343081
+layout_spectrum: 1
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0.23145361756905913
-  lightness: 0.4285223630722612
+  lightness: 1
   saturation: 0.2747819684445858
   rhythmicContrast: 0.17941323458217084
 purpose: []
