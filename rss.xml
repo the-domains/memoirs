@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Memoirs]]></title>
         <description><![CDATA[Memoirs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/memoirs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 10:20:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 10:39:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/memoirs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Trip Memories]]></title>
-            <description><![CDATA[<h1>Trip Memories</h1>]]></description>
-            <link>undefinedtrip-memories/index.html</link>
+            <description><![CDATA[<article><h1>Trip Memories</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3affff5a-b434-4235-9f60-50b7b7b6c648.jpg"></article>]]></description>
+            <link>https://thegrid.ai/memoirs/trip-memories/index.html</link>
             <guid isPermaLink="false">100f66eb-71fd-49ec-861a-bd4fc6b871d4</guid>
-            <pubDate>Sun, 28 Feb 2016 10:20:10 GMT</pubDate>
+            <pubDate>Sun, 28 Feb 2016 10:38:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
